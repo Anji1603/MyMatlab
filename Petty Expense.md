@@ -25,7 +25,8 @@ Home > County Specifics > Petty Expense > Section
 10. Selct the name of Cash Customer which is provide the expance in cash select that customer 11. Select the name of Cash Customer POS Profile (which custome POS is already created into ERPNEXT system for particular transaction)
 11. Set the Monthly Target as per your target and save the document
 
-
+![
+MyMatlab](Section.png)
 
 *Country Specifics* > Petty Expense > Expense Type
 # Expense Type
@@ -46,6 +47,8 @@ Home > County Specifics > Petty Expense > Expance Type
 5. Select the name of Expance Account (This entry will reflact in to account of direct or indirect expance )
 6. check  Related to Oil Company if expanace type is relat to oil based company 
 7. Save the Document
+
+![MyMatlab](Expance_type.png)
 
 *Country Specifics* > Petty Expense > Expense Record
 
@@ -71,3 +74,7 @@ Home > County Specifics > Petty Expense > Expance Record
 5. Attach the receipt or bill of image which you get from the expance u did for comapy
 6. then save the expance record the approve it then submit the record while we subbmit the record in backgroung general entry happens which is link to this document.(General entry would we the expace against you spend the money and it will reflect to the general ledger)
 7. Relode the document you will the the general Entey Created
+
+![MyMatlab](Expance_record1.png)
+![MyMatlab](Expance_record2.png)
+![MyMatlab](Expance_Rewcord3.png)
